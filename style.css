@@ -1,0 +1,22 @@
+.list li {
+  display: flex;
+  justify-content: space-between;
+  background-color: red;
+  padding: 5px 10px;
+  width: 600px;
+  margin-top: 10px;
+}
+
+.modal {
+  background-color: grey;
+  padding: 30px 50px;
+  display: none;
+}
+
+.modal_see {
+  display: inline-block;
+}
+
+.modal .modal_input {
+  padding: 5px 15px;
+}
